@@ -28,7 +28,7 @@ namespace encapsulation
             //property'ler get ve set'lerden oluşur.
         }
     }
-
+    
     class Ogrenci
     {
         private string isim;
